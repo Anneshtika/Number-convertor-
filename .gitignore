@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Cordova platforms and plugins build outputs
+platforms/
+plugins/
+
+# Android build outputs
+build/
+*.apk
+
+# Gradle files
+.gradle/
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Misc
+www/
